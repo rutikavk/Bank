@@ -1,0 +1,4 @@
+account_number,holder_name,account_type,balance,interest_rate,minimum_balance,overdraft_limit,created_at
+ACC-1001,Elena Rostova,Savings,4800.0,0.04,250.0,0.0,2026-11-23T12:56:33.152731+00:00
+ACC-1002,Marcus Vance,Checking,2655.25,0.0,0.0,500.0,2026-11-23T12:56:33.152853+00:00
+ACC-1003,Priya Nair,Savings,9636.0,0.045,500.0,0.0,2026-11-23T12:56:33.152933+00:00

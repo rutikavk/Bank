@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Ledger — Python OOP Bank System",
+  "description": "Object-Oriented Python Bank Account Management System with live CSV persistence, encapsulation, inheritance, abstraction, and exception handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

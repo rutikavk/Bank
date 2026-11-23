@@ -1,0 +1,3 @@
+# Project 03 — Bank Account Management System
+# Uses Python 3.10+ Standard Library only (abc, csv, datetime, pathlib, unittest, json).
+# No third-party packages are required.
